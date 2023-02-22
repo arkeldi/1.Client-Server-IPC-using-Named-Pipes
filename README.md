@@ -10,6 +10,8 @@ The server hosts several electrocardiogram (ECG) data points of 15 patients suff
 
 The client has to send properly-formatted messages to the server using a communication protocol that the server defines to implement this transfer functionality. 
 
+The code analysis documents I have attached go into depth of the program. 
+
 **Tasks**
 
 - [ ] Run server as a child of the client
